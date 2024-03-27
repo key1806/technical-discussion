@@ -42,3 +42,7 @@ for char in text {
 
 ### Gist
 This is a good example of [my code](https://gist.github.com/key1806/a9e76266dca4cbcc42accd01d71572d8)
+
+###  Image
+![image](https://github.com/key1806/technical-discussion/assets/165080284/b9d47645-d4cd-41a5-a418-8424dbc0f21f)
+
