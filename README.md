@@ -1,36 +1,36 @@
-# technical-discussion (MARKDOWN-tITULO 1)
+# technical-discussion (MARKDOWN heading 1)
 This is a demo repo for sharing ideas around communication
 
-## Titulo 2
-### Titulo 3
-#### Titulo 4
-##### Titulo 5
-###### Titulo 6
+## Markdown heading 2
+### Markdown heading 3
+#### Markdown heading 4
+##### Markdown heading 5
+###### Markdown heading 6
 
-**Negrita**
-__Negrita__
+**Bold**
+__Bold__
 
-*Cursiva*
-_Cursiva_
+*Italics*
+_Italics_
 
-***Cursiva y Negrita***
-___Cursiva y Negrita___
+***Italics y Bold***
+___Italics y Bold___
 
-* Lista
-  - Lista
-  - Lista
+* List
+  - List
+  - List
 
-1. Lista
-    - Lista
-2. Lista
-3. Lista
+1. List
+    - List
+2. List
+3. List
 
 ***
 ---
 
-> Esto es una cita
+> This is a quote
 > 
->>> Y esto es otra cita
+>>> This is a quote
 
 `print("Hola mundo")`
 
